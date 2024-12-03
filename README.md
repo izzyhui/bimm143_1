@@ -3,7 +3,7 @@ Classwork for [BIMM143 F24](https://github.com/izzyhui/bimm143_1/) at UC San Die
 
 - Class 5 [Data Visualization with GGplot]()
 - Class 6 [R Functions]()
-- Class 7 [Machine Learning](Class 07/Class 7-Machine Learning I.qmd)
+- Class 7 [Machine Learning](https://github.com/izzyhui/bimm143_1/blob/main/Class%2007/Class-7-Machine-Learning-I.pdf)
 - Class 8 []()
 - Class 9 []()
 - Class 10 []()
