@@ -7,6 +7,5 @@ Classwork for [BIMM143 F24](https://github.com/izzyhui/bimm143_1/) at UC San Die
 - Class 8 [Cancer Cell Analysis Mini-Project](https://github.com/izzyhui/bimm143_1/blob/main/Class%2008%20Mini%20Project/Class-8-Mini-Project.pdf)
 - Class 9 [Structural Bioinformatives](https://github.com/izzyhui/bimm143_1/blob/main/Class%2009/Class-9.pdf)
 - Class 10 [Halloween Mini-Project](https://github.com/izzyhui/bimm143_1/blob/main/Class%2010/Class-10.pdf)
-- Class 11 []()
-- Class 12 []()
-- Class 13 []()
+- Class 12 [Genome Informatics](https://github.com/izzyhui/bimm143_1/blob/main/Class%2012/Class-12.pdf)
+- Class 13 [RNAseq](https://github.com/izzyhui/bimm143_1/blob/main/Class%2013/Class-13.pdf)
