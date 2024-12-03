@@ -1,0 +1,75 @@
+---
+title: "Class 12"
+author: "Isabel Hui - A16887852"
+format: pdf
+---
+
+## Section 1: Proportion of G/G in population
+
+Downloaded a CSV file from Ensemble <https://useast.ensembl.org/Homo_sapiens/Variation/Sample?db=core;r=17:39895045-39895146;v=rs8067378;vdb=variation;vf=959672880;sample=HG00109>
+
+Now we can read this CSV file.
+
+```{r}
+mxl <- read.csv("samplegenotypes.csv")
+head(mxl)
+```
+
+```{r}
+table(mxl$Genotype..forward.strand.) / nrow(mxl) * 100
+```
+
+## Section 4: Population Scale Analysis [HOMEWORK]
+
+One sample is not enough to know what is happening in a population.
+
+How many samples do we have?
+
+```{r}
+expr <- read.table("rs8067378.txt")
+head(expr)
+```
+
+```{r}
+nrow(expr)
+```
+
+> Q13: Read this file into R and determine the sample size for each genotype and their corresponding median expression levels for each of these genotypes.
+
+
+```{r}
+table(expr$geno)
+```
+
+```{r}
+library(dplyr)
+df <- expr
+str(df)
+```
+
+```{r}
+summary_df <- df %>%
+  group_by(geno) %>%
+  summarise(
+    sample_size = n(),  
+    median_expression = median(exp, na.rm = TRUE)
+  )
+
+summary_df
+```
+
+> Q14: Generate a boxplot with a box per genotype, what could you infer from the relative expression value between A/A and G/G displayed in this plot? Does the SNP effect the expression of ORMDL3?
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+ggplot(expr) + aes(geno, exp, fill=geno) +
+  geom_boxplot(notch=TRUE)
+```
+
+The box plot does show differing levels of expression between the A/A and G/G genotype. The SNP does effect the expression of ORMDL3, as a G/G genotype (blue box) can be seen to significantly decrease expression as the mean and top and bottom quartile all lie below the values of the A/A genotype expression.
+
+
+

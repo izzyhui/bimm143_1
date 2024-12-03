@@ -1,0 +1,70 @@
+---
+title: "Class 10: Halloween Mini-Project"
+author: "Isabel Hui - A16887852"
+format: html
+---
+
+
+
+Today is Halloween, an old Irish holiday. Let's celebrate by eating candy.
+
+We will explore some data all about Halloween candy from the 538 website.
+
+
+
+```{r}
+candy <- read.csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/candy-power-ranking/candy-data.csv", row.names = 1)
+
+head(candy)
+```
+
+
+
+> Q1. How many different candy types are in this dataset?
+
+
+
+```{r}
+nrow(candy)
+```
+
+```{r}
+rownames(candy)
+```
+
+
+
+> Q2. How many fruity candy types are in the dataset?
+
+
+
+> Q3. What is your favorite candy in the dataset and what is it’s winpercent value?
+
+
+
+```{r}
+
+```
+
+
+
+
+> Q4. What is the winpercent value for “Kit Kat”?
+
+
+
+```{r}
+
+```
+
+
+
+
+> Q5. What is the winpercent value for “Tootsie Roll Snack Bars”?
+
+
+
+```{r}
+
+```
+
