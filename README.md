@@ -14,7 +14,7 @@ The basics of writing your own functions that promote code robustness, reduce du
 Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, Principal Component Analysis (PCA)
 
 ## Class 8 
-### [Cancer Cell Analysis Mini-Project]()
+### [Cancer Cell Analysis Mini-Project](https://github.com/izzyhui/bimm143_1/blob/main/Class%2008%20Mini%20Project/Class%208%20Mini%20Project.md)
 Longer hands-on session with unsupervised learning analysis of cancer cells further highlighting Practical considerations and best practices for the analysis and visualization of high dimensional datasets
 
 ## Class 9 
