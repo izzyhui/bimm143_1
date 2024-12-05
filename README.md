@@ -30,7 +30,7 @@ A fun and topical mini-project with unsupervised learning analysis of halloween_
 Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC
 
 ## Class 13 
-### [RNAseq]()
+### [RNAseq](https://github.com/izzyhui/bimm143_1/blob/main/Class%2013/Class%2013.md)
 RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene functional annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.
 
 ## Class 14 
