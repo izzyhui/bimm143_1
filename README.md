@@ -22,3 +22,5 @@ Classwork for [BIMM143 F24](https://github.com/izzyhui/bimm143_1/) at UC San Die
 ## Class 15 [Pertussis Resurgence]()
 
 ## Class 16 [Essential UNIX for Bioinformatics]()
+
+## Class 17 [Analyzing Sequencing Data in the CLoud]()
