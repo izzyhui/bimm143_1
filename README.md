@@ -5,7 +5,7 @@ Classwork for [BIMM143 F24](https://github.com/izzyhui/bimm143_1/) at UC San Die
 
 ## Class 6 [R Functions]()
 
-## Class 7 [Introduction to Machine Learning](https://github.com/izzyhui/bimm143_1/blob/main/Class%2007/Class-7-Machine-Learning-I.pdf)
+## Class 7 [Introduction to Machine Learning](https://github.com/izzyhui/bimm143_1/blob/main/Class%2007/Class%207-Machine%20Learning%20I.md)
 
 ## Class 8 [Cancer Cell Analysis Mini-Project](https://github.com/izzyhui/bimm143_1/blob/main/Class%2008%20Mini%20Project/Class-8-Mini-Project.pdf)
 
