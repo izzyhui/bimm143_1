@@ -1,7 +1,7 @@
 ---
 title: "Class 10: Halloween Mini-Project"
 author: "Isabel Hui - A16887852"
-format: pdf
+format: gfm
 ---
 
 Today is Halloween, an old Irish holiday. Let's celebrate by eating candy.
