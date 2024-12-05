@@ -19,4 +19,4 @@ Classwork for [BIMM143 F24](https://github.com/izzyhui/bimm143_1/) at UC San Die
 
 ## Class 14 [RNAseq Mini-Project]()
 
-## Class 15 [Pertussis Resurgence}()
+## Class 15 [Pertussis Resurgence]()
