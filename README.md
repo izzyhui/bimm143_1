@@ -34,7 +34,7 @@ Searching genes and gene functions, Genome databases, Variation in the Genome, H
 RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene functional annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.
 
 ## Class 14 
-### [RNAseq Mini-Project]()
+### [RNAseq Mini-Project](https://github.com/izzyhui/bimm143_1/blob/main/Class%2014/Class%2014.md)
 Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.
 
 ## Class 15 [Pertussis Resurgence]()
