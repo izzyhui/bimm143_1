@@ -1,7 +1,7 @@
 ---
 title: "Class 14"
 author: "Isabel Hui - A16887852"
-format: pdf
+format: gfm
 ---
 
 Today we will complete an RNASeq analysis from counts to pathways.
