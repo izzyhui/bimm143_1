@@ -14,15 +14,15 @@ The basics of writing your own functions that promote code robustness, reduce du
 Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, Principal Component Analysis (PCA)
 
 ## Class 8 
-### [Cancer Cell Analysis Mini-Project](https://github.com/izzyhui/bimm143_1/blob/main/Class%2008%20Mini%20Project/Class-8-Mini-Project.pdf)
+### [Cancer Cell Analysis Mini-Project]()
 Longer hands-on session with unsupervised learning analysis of cancer cells further highlighting Practical considerations and best practices for the analysis and visualization of high dimensional datasets
 
 ## Class 9 
-### [Structural Bioinformatives](https://github.com/izzyhui/bimm143_1/blob/main/Class%2009/Class-9.pdf)
+### [Structural Bioinformatives]()
 Comparative structure and sequence analysis. Working with sequence and structure data in R. (If time allows) Protein motion and conformational variants, Molecular simulation and small molecule docking and drug optimization.
 
 ## Class 10 
-### [Halloween Mini-Project](https://github.com/izzyhui/bimm143_1/blob/main/Class%2010/Class-10.pdf)
+### [Halloween Mini-Project]()
 A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the exploratory analysis and visualization of high dimensional datasets.
 
 ## Class 12 
