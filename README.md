@@ -14,14 +14,19 @@ Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap repr
 Longer hands-on session with unsupervised learning analysis of cancer cells further highlighting Practical considerations and best practices for the analysis and visualization of high dimensional datasets
 
 ## Class 9 [Structural Bioinformatives](https://github.com/izzyhui/bimm143_1/blob/main/Class%2009/Class-9.pdf)
+Comparative structure and sequence analysis. Working with sequence and structure data in R. (If time allows) Protein motion and conformational variants, Molecular simulation and small molecule docking and drug optimization.
 
 ## Class 10 [Halloween Mini-Project](https://github.com/izzyhui/bimm143_1/blob/main/Class%2010/Class-10.pdf)
+A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the exploratory analysis and visualization of high dimensional datasets.
 
 ## Class 12 [Genome Informatics](https://github.com/izzyhui/bimm143_1/blob/main/Class%2012/Class-12.pdf)
+Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC
 
 ## Class 13 [RNAseq](https://github.com/izzyhui/bimm143_1/blob/main/Class%2013/Class-13.pdf)
+RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene functional annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.
 
 ## Class 14 [RNAseq Mini-Project]()
+Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.
 
 ## Class 15 [Pertussis Resurgence]()
 
