@@ -22,7 +22,7 @@ Longer hands-on session with unsupervised learning analysis of cancer cells furt
 Comparative structure and sequence analysis. Working with sequence and structure data in R. (If time allows) Protein motion and conformational variants, Molecular simulation and small molecule docking and drug optimization.
 
 ## Class 10 
-### [Halloween Mini-Project]()
+### [Halloween Mini-Project](https://github.com/izzyhui/bimm143_1/blob/main/Class%2010/Class%2010.md)
 A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the exploratory analysis and visualization of high dimensional datasets.
 
 ## Class 12 
