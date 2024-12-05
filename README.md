@@ -1,4 +1,4 @@
-# bimm143_1
+# BIMM143 FA24 - Isabel Hui
 Classwork for [BIMM143 F24](https://github.com/izzyhui/bimm143_1/) at UC San Diego.
 
 - Class 5 [Data Visualization with GGplot]()
